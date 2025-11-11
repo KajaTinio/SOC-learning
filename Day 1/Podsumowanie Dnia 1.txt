@@ -1,0 +1,5 @@
+Poznanie ofensywnego (Read team) i Defensywnego (Blue Team) podejścia Cyber Security.
+
+Poznanie potencjalnego myślenia hackera - użycie komendy dirb (skanowanie ukrytych katalogów i plików), odczyt logów i wykorzystanie ich
+
+Poznanie struktury defensywnej cyber security - typowe zadania członków zespołu cyberbezpieczeństwa, ochrona ataku (blok ip, podejrzanych działań)
